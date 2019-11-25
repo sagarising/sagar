@@ -4,7 +4,11 @@
 
 layout: home
 ---
-WHAT I HAVE TO OFFER
+---
+WHAT CAN I DO
 
 * Website Building 
 * Website Hosting
+
+---
+READ MY BLOGS [HERE](https://medium.com/@sagarmaurya){:target="_blank"}

@@ -15,9 +15,6 @@ WHAT CAN I DO
 * Photography
 
 ---
-CURRENTLY WORKING AT [HERE](https://www.thoughtworks.com/){:target="_blank"}
-
----
 READ MY BLOGS [HERE](https://medium.com/@sagarmaurya){:target="_blank"}
 
 ---

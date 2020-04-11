@@ -16,7 +16,3 @@ WHAT CAN I DO
 
 ---
 READ MY BLOGS [HERE](https://medium.com/@sagarmaurya){:target="_blank"}
-
----
-WATCH MY VIDEOS [HERE](https://www.youtube.com/channel/UCM8aAjB6FLel0utMFQXLT6g){:target="_blank"}
-

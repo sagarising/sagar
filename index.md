@@ -8,7 +8,6 @@ whatsapp_text: Hey Sagar. I just saw your website. Let's talk.
 ![]({{ "/assets/sagar.jpg" | relative_url }}){:height="300px" width="px" align="right" border="3px"}
 
 ---
-WHAT CAN I DO
 * Website Building 
 * Website Hosting
 * Private Tuition For Elementary Students

@@ -10,6 +10,7 @@
         <ul class="contact-list">
             {%- if site.email -%}
             <li><a class="u-email" target="_blank" href="https://mail.google.com/mail/?view=cm&to={{ site.email }}&su=Query for&body=Hello Sagar">{{ site.email }}</a></li>
+            <li><a target="_blank" href="https://wa.me/{{ site.whatsapp }}?text={{ page.whatsapp_text}}"</a>WhatsApp</li>
             {%- endif -%}
         </ul>
       </div>

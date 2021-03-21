@@ -11,4 +11,5 @@
   {%- if site.googleplus_username -%}<li><a target="_blank" href="https://plus.google.com/{{ site.googleplus_username| escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if site.rss -%}<li><a target="_blank" href="{{ 'feed.xml' | relative_url }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg> <span>{{ site.rss | escape }}</span></a></li>{%- endif -%}
   {%- if site.stackoverflow_username -%}<li><a target="_blank" href="https://stackoverflow.com/users/{{ site.stackoverflow_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#stackoverflow' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  {%- if site.bmc_username -%}<li><a target="_blank" href="https://www.buymeacoffee.com/{{ site.bmc_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/bmc-icon.svg#bmc' | relative_url }}"></use></svg></a></li>{%- endif -%}
 </ul>

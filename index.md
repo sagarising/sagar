@@ -10,8 +10,9 @@ whatsapp_text: Hey Sagar. I just saw your website. Let's talk.
 ---
 * Website Building
 * Website Hosting
-* Private Tuition For Elementary Students
-* Travelling
+* DevOps Instructor
+* DevOps content creator
+* Coding content creator
 * Photography
 
 ---
